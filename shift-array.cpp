@@ -1,7 +1,6 @@
 /*Instructions: Write a C++ program that uses a function to shift an array and store the result in a separate array.
 The shift operation performed will be a left shift.*/
 
-//Written By: Timothy Middleton 900382146
 
 
 #include <iostream>
